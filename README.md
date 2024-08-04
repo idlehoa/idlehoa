@@ -12,12 +12,10 @@
 - Lua
 
 ## 💼 Professional Interests
-- [List of professional interests or areas of expertise]
-Co con cac
+- Co con cac
 
 ## 💞️ Looking to Collaborate On
-- [Types of projects or collaborations you're interested in]
-Co con cu
+- Co con cu
 
 ## 📫 How to Reach Me
 - 📧 [Email](mailto:idle@vanhao.xyz)
