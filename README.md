@@ -2,7 +2,7 @@
 
 ## 👀 About Me
 - 🌍 Based in VietNam
-- 😄 Pronouns: [Your Pronouns]
+- 😄 Pronouns: Co Con Cac
 - ⚡ Fun fact: Idle luôn đẹp trai
 
 ## 🌱 Currently Learning
